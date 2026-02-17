@@ -13,3 +13,7 @@
 ## changelog.md
 
 ## dev_logs.md
+
+# DEMO of your project:
+- Demo of a project is delivered to clients (technincal/non-technical) or other Engineers (team or seniors) or maybe to just your friends lol.
+- **ATTENTION IS EVERYTHING:** DONT TALK, show. Make flowcharts/Diagrams to visualise your pipeline/system's functioning. 
