@@ -12,11 +12,16 @@
 - readme.md, code_docs.md, changelog.md, dev_logs.md : these are the 4 files to make. 
 
 ## readme.md 
-
+1. This includes the description of your project. What is it, what problem it solves, what is needed to use/run this project.
+2. Any technical/non-technical person after reading this should get an idea if they need this project or not and how to get it running. 
 ## code_docs.md 
-
+1. This is the main technical documentation out of all 4 files. 
 ## changelog.md
-
+1. Traditional changelog.
+2. 
 ## dev_logs.md
-
+1. Simple past tense developer logs of what was done. Include plans. 
 ##### In this way, all documentation/development-context stays in the root of the repo. There can be external docs, diagrams, task management, etc but the above 4 files can be enough for anyone to pick up the project, learn about it and do whatever they want with it. 
+
+# rough for taha:
+- add images ss of these files as examples (alt image ./subdir) -- keep images within the repo. 
